@@ -10,7 +10,6 @@ public class RemoteWorkScheduleManagement implements ScheduleManagement {
     @Override
     public void calculateOverTime() {
         System.out.println(" Calculating report for remote work shift...");
-
     }
 
 @Override

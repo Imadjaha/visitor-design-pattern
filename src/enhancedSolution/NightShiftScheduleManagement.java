@@ -10,7 +10,6 @@ public class NightShiftScheduleManagement implements ScheduleManagement {
     @Override
     public void calculateOverTime() {
         System.out.println(" Calculating report for night shift...");
-
     }
 
     @Override

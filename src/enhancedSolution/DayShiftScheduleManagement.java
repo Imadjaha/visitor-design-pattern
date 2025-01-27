@@ -10,7 +10,6 @@ public class DayShiftScheduleManagement implements ScheduleManagement {
     @Override
     public void calculateOverTime() {
         System.out.println(" Calculating report for day shift...");
-
     }
 
     @Override
